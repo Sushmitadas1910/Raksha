@@ -1,9 +1,3 @@
-Good. Now paste this entire block into Notepad (select all the text below, copy it, then paste into Notepad):Here's the exact text to paste into Notepad:
-
-
-
-```markdown
-
 \# Raksha – Women Safety \& Emergency Response System
 
 
