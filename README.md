@@ -144,5 +144,4 @@ Built solo, end-to-end, by \[Sushmita Das](https://github.com/Sushmitadas1910).
 
 
 
-Once pasted, go to \*\*File → Save\*\* (or Ctrl+S), then close Notepad. Tell me when that's done.
 
